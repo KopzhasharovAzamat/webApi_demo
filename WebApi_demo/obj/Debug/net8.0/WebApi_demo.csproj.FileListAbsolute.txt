@@ -32,3 +32,4 @@ C:\Users\Adrian\Documents\KSTU\projects\csharp\WebApi_demo\WebApi_demo\obj\Debug
 C:\Users\Adrian\Documents\KSTU\projects\csharp\WebApi_demo\WebApi_demo\obj\Debug\net8.0\WebApi_demo.pdb
 C:\Users\Adrian\Documents\KSTU\projects\csharp\WebApi_demo\WebApi_demo\obj\Debug\net8.0\WebApi_demo.genruntimeconfig.cache
 C:\Users\Adrian\Documents\KSTU\projects\csharp\WebApi_demo\WebApi_demo\obj\Debug\net8.0\ref\WebApi_demo.dll
+C:\Users\Adrian\Documents\KSTU\projects\csharp\WebApi_demo\WebApi_demo\obj\Debug\net8.0\WebApi_demo.sourcelink.json
